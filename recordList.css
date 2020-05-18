@@ -1,0 +1,21 @@
+.slds-m-around_medium{
+    background-color:rgb(166, 255, 0) ;
+    padding: 8px;
+    text-align: center;
+    max-height: 480px;
+    border: lightyellow;
+    background-position: 5cm;
+}
+
+.slds-truncate{
+    background-color:rgb(177, 245, 245);
+    border-radius: 100mm;
+    font-weight: 800;
+}
+
+.slds-truncate-1{
+    background-color:rgb(250, 240, 181);  
+   }
+.content{
+    background-color:rgb(250, 100, 225);  
+}
